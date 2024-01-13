@@ -1,0 +1,69 @@
+[
+    {
+"name":"",
+"recipe":"Chargrilled fresh tuna steak (served medium rare) on classic Niçoise s…",
+"image":"https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-…",
+"category":"salad",
+"price":199.00
+    },
+    {
+        "name":"Mollik",
+        "details":"Items are great",
+        "rating":5
+    },
+    {
+        "name":"Sopon",
+        "details":"It is good great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":5
+    },
+    {
+        "name":"Adam",
+        "details":"Salad's items are great",
+        "rating":4
+    },
+    {
+        "name":"Adam",
+        "details":"Display is good",
+        "rating":3
+    },
+    {
+        "name":"Mobinur",
+        "details":"Lamp's items are great",
+        "rating":4
+    }
+]
